@@ -98,6 +98,8 @@ uploadPhotos.php (2)
 
 ### Slideshow
 
+https://user-images.githubusercontent.com/79420331/188745431-24e84f9e-d523-4aeb-be98-cddbcff18b27.mp4
+
 ### Database
 
 wcss_tugsA
