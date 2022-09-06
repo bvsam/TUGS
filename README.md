@@ -21,6 +21,8 @@ The graduation slideshow would then be played at the graduation ceremony.
 
 ## Pictures & Video
 
+Jump to: [Website](#website) [Slideshow](#slideshow) [Database](#database)
+
 ### Website
 
 announcements.php
